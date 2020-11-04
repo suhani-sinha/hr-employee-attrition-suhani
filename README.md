@@ -1,2 +1,7 @@
-# hr-employee-attrition-suhani
-Python machine learning project on HR attrition solution. In this project we try to help HR identify employee
+## HR attrition Machine Learning Solution
+
+![enter image description here](https://github.com/suhani-sinha/hr-employee-attrition-suhani/blob/main/Attrtion.png?raw=true)
+
+![enter image description here](https://github.com/suhani-sinha/hr-employee-attrition-suhani/blob/main/hr-analytics-10.jpg?raw=true)
+ [click](https://github.com/suhani-sinha/hr-employee-attrition-suhani/blob/main/HR_Analytics.ipynb)
+ 
